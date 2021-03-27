@@ -1,0 +1,42 @@
+C:\Users\Taras\source\repos\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Taras\source\repos\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\Taras\source\repos\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Taras\source\repos\Lab1\Lab1\bin\Debug\AForge.Math.dll
+C:\Users\Taras\source\repos\Lab1\Lab1\bin\Debug\AForge.xml
+C:\Users\Taras\source\repos\Lab1\Lab1\bin\Debug\AForge.Imaging.xml
+C:\Users\Taras\source\repos\Lab1\Lab1\bin\Debug\AForge.Math.xml
+C:\Users\Taras\source\repos\Lab1\Lab1\obj\Debug\APO_TarasKuts16555.csprojAssemblyReference.cache
+C:\Users\Taras\source\repos\Lab1\Lab1\obj\Debug\Lab1.CUT.resources
+C:\Users\Taras\source\repos\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+C:\Users\Taras\source\repos\Lab1\Lab1\obj\Debug\Lab1.PC1.resources
+C:\Users\Taras\source\repos\Lab1\Lab1\obj\Debug\Lab1.PC2.resources
+C:\Users\Taras\source\repos\Lab1\Lab1\obj\Debug\Lab1.PC3.resources
+C:\Users\Taras\source\repos\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\Taras\source\repos\Lab1\Lab1\obj\Debug\APO_TarasKuts16555.csproj.GenerateResource.cache
+C:\Users\Taras\source\repos\Lab1\Lab1\obj\Debug\APO_TarasKuts16555.csproj.CoreCompileInputs.cache
+C:\Users\Taras\source\repos\Lab1\Lab1\obj\Debug\APO_TarasKuts16555.csproj.CopyComplete
+C:\Users\Taras\source\repos\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\Taras\source\repos\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\Taras\source\repos\Taras Kuts 16555\Taras Kuts\obj\Debug\APO_TarasKuts16555.csprojAssemblyReference.cache
+C:\Users\Taras\source\repos\Taras Kuts 16555\Taras Kuts\obj\Debug\Lab1.CUT.resources
+C:\Users\Taras\source\repos\Taras Kuts 16555\Taras Kuts\obj\Debug\Lab1.Form1.resources
+C:\Users\Taras\source\repos\Taras Kuts 16555\Taras Kuts\obj\Debug\Lab1.PC1.resources
+C:\Users\Taras\source\repos\Taras Kuts 16555\Taras Kuts\obj\Debug\Lab1.PC2.resources
+C:\Users\Taras\source\repos\Taras Kuts 16555\Taras Kuts\obj\Debug\Lab1.PC3.resources
+C:\Users\Taras\source\repos\Taras Kuts 16555\Taras Kuts\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\Taras\source\repos\Taras Kuts 16555\Taras Kuts\obj\Debug\APO_TarasKuts16555.csproj.GenerateResource.cache
+C:\Users\Taras\source\repos\Taras Kuts 16555\Taras Kuts\obj\Debug\APO_TarasKuts16555.csproj.CoreCompileInputs.cache
+C:\Users\Taras\source\repos\Taras Kuts 16555\Taras Kuts\obj\Debug\Lab1.exe
+C:\Users\Taras\source\repos\Taras Kuts 16555\Taras Kuts\obj\Debug\Lab1.pdb
+C:\Users\Taras\source\repos\Taras Kuts 16555\Taras Kuts\bin\Debug\Lab1.exe.config
+C:\Users\Taras\source\repos\Taras Kuts 16555\Taras Kuts\bin\Debug\Lab1.exe
+C:\Users\Taras\source\repos\Taras Kuts 16555\Taras Kuts\bin\Debug\Lab1.pdb
+C:\Users\Taras\source\repos\Taras Kuts 16555\Taras Kuts\bin\Debug\AForge.Math.dll
+C:\Users\Taras\source\repos\Taras Kuts 16555\Taras Kuts\bin\Debug\AForge.xml
+C:\Users\Taras\source\repos\Taras Kuts 16555\Taras Kuts\bin\Debug\AForge.Imaging.xml
+C:\Users\Taras\source\repos\Taras Kuts 16555\Taras Kuts\bin\Debug\AForge.Math.xml
+C:\Users\Taras\source\repos\Taras Kuts 16555\Taras Kuts\obj\Debug\APO_TarasKuts16555.csproj.CopyComplete
+C:\Users\Taras\source\repos\Taras Kuts 16555\Taras Kuts\obj\Debug\Lab1.GrayscaleHistogram.resources
+C:\Users\Taras\source\repos\Taras Kuts 16555\Taras Kuts\obj\Debug\Lab1.RGBhistogram.resources
+C:\Users\Taras\source\repos\Taras Kuts 16555\Taras Kuts\obj\Debug\Lab1.ResultPicture.resources
+C:\Users\Taras\source\repos\Taras Kuts 16555\Taras Kuts\obj\Debug\Lab1.Operations.resources
