@@ -1,0 +1,5 @@
+The project implements the following:
+RGB / Grayscale histogram, grayscale transformations, applying various masks about 18 and the possibility of applying your own, merging, applying razor pixels,
+histogram stretches with Min and Max values, Treshhold with Min and Max values, reduction with qi, pi, Treshhold parameters with one value, dilation, erosion, opening, 
+closing, negation, compression using the Read algorithm, Huffman code and Compression with parameters, equalizing and stratching, median different sizes with the option of
+overlapping pixel brim. Also operations on two images such as ADD, DIFF, SUB, OR, XOR, AND. The Aforge library is used for overlapping dilution, erosion, opening and closing.
